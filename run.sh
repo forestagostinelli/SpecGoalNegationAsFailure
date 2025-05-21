@@ -28,10 +28,21 @@ if [[ "$env" == "cube3" ]]; then
   fi
 elif [[ "$env" == "puzzle24" ]]; then
   bk_add="specifications/puzzle_sliding.lp"
-  goal="r0_sum_even"
-  # specs="all_r_sum_even"
-  # specs="not_r0_sum_odd"
-  # specs="not_any_r_sum_odd"
+  if [[ $goalnum == 1 ]]; then
+    if [[ "$goaltype" == "mono" ]]; then
+      goal="r0_sum_even"
+    elif [[ "$goaltype" == "nonmono" ]]; then
+	    goal="not_r0_sum_odd"
+    fi
+  fi
+
+  if [[ $goalnum == 2 ]]; then
+    if [[ "$goaltype" == "mono" ]]; then
+      goal="all_r_sum_even"
+    elif [[ "$goaltype" == "nonmono" ]]; then
+	    goal="not_any_r_sum_odd"
+    fi
+  fi
 fi
 
 
@@ -49,4 +60,4 @@ if [[ "$redo" -eq 1 ]]; then
 fi
 
 echo $COMMAND
-# eval $COMMAND
+eval $COMMAND
