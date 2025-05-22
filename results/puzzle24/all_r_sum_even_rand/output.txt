@@ -1,0 +1,409 @@
+Parsed input clauses:
+[goal:- all_r_sum_even]
+device: cuda:0, devices: [0], on_gpu: True
+State: 0, path_cost: 83.00, solved: True, #itrs: 8, #models: 80, %reach: 51.25, %not_goal: 0.00, secs/model: 0.71, secs/path: 1.79, Time: 201.06
+Times - init: 0.455709, pop: 0.000015, refine: 56.999910, check_goal: 0.657815, path_find: 142.941033, get_conflict: 0.000012, improve_ub: 0.000907, push: 0.000000, check_seen: 0.000101, Tot: 201.055502
+Means - path_cost: 83.00, solved: 100.00%, #itrs: 8.00, #models: 80.00, %reach: 51.25, %not_goal: 0.00, secs/model: 0.71, secs/path: 1.79, Time: 201.06
+
+State: 1, path_cost: 84.00, solved: True, #itrs: 8, #models: 80, %reach: 45.00, %not_goal: 0.00, secs/model: 0.79, secs/path: 1.92, Time: 217.85
+Times - init: 0.461072, pop: 0.000015, refine: 63.279193, check_goal: 0.633019, path_find: 153.450413, get_conflict: 0.000015, improve_ub: 0.000530, push: 0.000000, check_seen: 0.000099, Tot: 217.824356
+Means - path_cost: 83.50, solved: 100.00%, #itrs: 8.00, #models: 80.00, %reach: 48.12, %not_goal: 0.00, secs/model: 0.75, secs/path: 1.85, Time: 209.46
+
+State: 2, path_cost: 91.00, solved: True, #itrs: 6, #models: 60, %reach: 41.67, %not_goal: 0.00, secs/model: 0.48, secs/path: 2.05, Time: 152.87
+Times - init: 0.461065, pop: 0.000013, refine: 29.095705, check_goal: 0.452039, path_find: 122.835336, get_conflict: 0.000013, improve_ub: 0.000126, push: 0.000000, check_seen: 0.000074, Tot: 152.844370
+Means - path_cost: 86.00, solved: 100.00%, #itrs: 7.33, #models: 73.33, %reach: 45.97, %not_goal: 0.00, secs/model: 0.66, secs/path: 1.92, Time: 190.60
+
+State: 3, path_cost: 76.00, solved: True, #itrs: 6, #models: 60, %reach: 55.00, %not_goal: 0.00, secs/model: 0.49, secs/path: 1.67, Time: 131.21
+Times - init: 0.460915, pop: 0.000011, refine: 29.689912, check_goal: 0.575445, path_find: 100.453581, get_conflict: 0.000010, improve_ub: 0.000133, push: 0.000000, check_seen: 0.000069, Tot: 131.180075
+Means - path_cost: 83.50, solved: 100.00%, #itrs: 7.00, #models: 70.00, %reach: 48.23, %not_goal: 0.00, secs/model: 0.62, secs/path: 1.86, Time: 175.75
+
+State: 4, path_cost: 85.00, solved: True, #itrs: 6, #models: 60, %reach: 55.00, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.65, Time: 154.16
+Times - init: 0.464204, pop: 0.000011, refine: 53.882372, check_goal: 0.551252, path_find: 99.235425, get_conflict: 0.000007, improve_ub: 0.000054, push: 0.000000, check_seen: 0.000073, Tot: 154.133399
+Means - path_cost: 83.80, solved: 100.00%, #itrs: 6.80, #models: 68.00, %reach: 49.58, %not_goal: 0.00, secs/model: 0.68, secs/path: 1.82, Time: 171.43
+
+State: 5, path_cost: 84.00, solved: True, #itrs: 7, #models: 70, %reach: 47.14, %not_goal: 0.00, secs/model: 0.70, secs/path: 1.84, Time: 178.75
+Times - init: 0.462245, pop: 0.000012, refine: 48.886550, check_goal: 0.558711, path_find: 128.814817, get_conflict: 0.000013, improve_ub: 0.000296, push: 0.000000, check_seen: 0.000083, Tot: 178.722727
+Means - path_cost: 83.83, solved: 100.00%, #itrs: 6.83, #models: 68.33, %reach: 49.18, %not_goal: 0.00, secs/model: 0.68, secs/path: 1.82, Time: 172.65
+
+State: 6, path_cost: 85.00, solved: True, #itrs: 9, #models: 90, %reach: 56.67, %not_goal: 0.00, secs/model: 0.84, secs/path: 1.63, Time: 223.49
+Times - init: 0.459494, pop: 0.000016, refine: 75.666808, check_goal: 0.850638, path_find: 146.477335, get_conflict: 0.000013, improve_ub: 0.000903, push: 0.000000, check_seen: 0.000127, Tot: 223.455335
+Means - path_cost: 84.00, solved: 100.00%, #itrs: 7.14, #models: 71.43, %reach: 50.25, %not_goal: 0.00, secs/model: 0.70, secs/path: 1.79, Time: 179.91
+
+State: 7, path_cost: 84.00, solved: True, #itrs: 12, #models: 120, %reach: 50.83, %not_goal: 0.00, secs/model: 1.05, secs/path: 1.79, Time: 342.00
+Times - init: 0.461071, pop: 0.000024, refine: 125.828103, check_goal: 1.046937, path_find: 214.628329, get_conflict: 0.000027, improve_ub: 0.000729, push: 0.000000, check_seen: 0.000146, Tot: 341.965366
+Means - path_cost: 84.00, solved: 100.00%, #itrs: 7.75, #models: 77.50, %reach: 50.32, %not_goal: 0.00, secs/model: 0.75, secs/path: 1.79, Time: 200.17
+
+State: 8, path_cost: 87.00, solved: True, #itrs: 15, #models: 150, %reach: 57.33, %not_goal: 0.00, secs/model: 1.31, secs/path: 1.61, Time: 440.38
+Times - init: 0.458853, pop: 0.000027, refine: 197.058393, check_goal: 1.428880, path_find: 241.391799, get_conflict: 0.000028, improve_ub: 0.000874, push: 0.000000, check_seen: 0.000178, Tot: 440.339031
+Means - path_cost: 84.33, solved: 100.00%, #itrs: 8.56, #models: 85.56, %reach: 51.10, %not_goal: 0.00, secs/model: 0.81, secs/path: 1.77, Time: 226.86
+
+State: 9, path_cost: 75.00, solved: True, #itrs: 13, #models: 130, %reach: 48.46, %not_goal: 0.00, secs/model: 1.23, secs/path: 1.84, Time: 399.60
+Times - init: 0.457389, pop: 0.000023, refine: 159.428901, check_goal: 1.055803, path_find: 238.613083, get_conflict: 0.000014, improve_ub: 0.001561, push: 0.000000, check_seen: 0.000164, Tot: 399.556938
+Means - path_cost: 83.40, solved: 100.00%, #itrs: 9.00, #models: 90.00, %reach: 50.84, %not_goal: 0.00, secs/model: 0.85, secs/path: 1.78, Time: 244.14
+
+State: 10, path_cost: 86.00, solved: True, #itrs: 15, #models: 150, %reach: 46.00, %not_goal: 0.00, secs/model: 1.27, secs/path: 1.90, Time: 476.91
+Times - init: 0.457815, pop: 0.000026, refine: 190.337077, check_goal: 1.169510, path_find: 284.906494, get_conflict: 0.000020, improve_ub: 0.001505, push: 0.000000, check_seen: 0.000189, Tot: 476.872635
+Means - path_cost: 83.64, solved: 100.00%, #itrs: 9.55, #models: 95.45, %reach: 50.40, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.79, Time: 265.30
+
+State: 11, path_cost: 84.00, solved: True, #itrs: 12, #models: 120, %reach: 60.00, %not_goal: 0.00, secs/model: 1.19, secs/path: 1.54, Time: 329.40
+Times - init: 0.458872, pop: 0.000024, refine: 143.150794, check_goal: 1.172320, path_find: 184.574275, get_conflict: 0.000025, improve_ub: 0.000706, push: 0.000000, check_seen: 0.000147, Tot: 329.357164
+Means - path_cost: 83.67, solved: 100.00%, #itrs: 9.75, #models: 97.50, %reach: 51.20, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.77, Time: 270.64
+
+State: 12, path_cost: 86.00, solved: True, #itrs: 6, #models: 60, %reach: 46.67, %not_goal: 0.00, secs/model: 0.63, secs/path: 1.90, Time: 152.87
+Times - init: 0.457840, pop: 0.000010, refine: 37.855447, check_goal: 0.460299, path_find: 114.058295, get_conflict: 0.000013, improve_ub: 0.000057, push: 0.000000, check_seen: 0.000075, Tot: 152.832037
+Means - path_cost: 83.85, solved: 100.00%, #itrs: 9.46, #models: 94.62, %reach: 50.85, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.78, Time: 261.58
+
+State: 13, path_cost: 81.00, solved: True, #itrs: 10, #models: 100, %reach: 51.00, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 265.89
+Times - init: 0.460455, pop: 0.000017, refine: 87.512715, check_goal: 0.851462, path_find: 177.036661, get_conflict: 0.000012, improve_ub: 0.001116, push: 0.000000, check_seen: 0.000122, Tot: 265.862560
+Means - path_cost: 83.64, solved: 100.00%, #itrs: 9.50, #models: 95.00, %reach: 50.86, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.78, Time: 261.89
+
+State: 14, path_cost: 85.00, solved: True, #itrs: 11, #models: 110, %reach: 51.82, %not_goal: 0.00, secs/model: 1.01, secs/path: 1.75, Time: 305.10
+Times - init: 0.461447, pop: 0.000020, refine: 111.121509, check_goal: 0.932420, path_find: 192.551630, get_conflict: 0.000016, improve_ub: 0.000670, push: 0.000000, check_seen: 0.000133, Tot: 305.067846
+Means - path_cost: 83.73, solved: 100.00%, #itrs: 9.60, #models: 96.00, %reach: 50.92, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.78, Time: 264.77
+
+State: 15, path_cost: 87.00, solved: True, #itrs: 11, #models: 110, %reach: 49.09, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.80, Time: 298.53
+Times - init: 0.458772, pop: 0.000021, refine: 98.594517, check_goal: 0.895442, path_find: 198.547057, get_conflict: 0.000025, improve_ub: 0.000453, push: 0.000000, check_seen: 0.000139, Tot: 298.496428
+Means - path_cost: 83.94, solved: 100.00%, #itrs: 9.69, #models: 96.88, %reach: 50.81, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.78, Time: 266.88
+
+State: 16, path_cost: 86.00, solved: True, #itrs: 11, #models: 110, %reach: 53.64, %not_goal: 0.00, secs/model: 1.06, secs/path: 1.71, Time: 305.90
+Times - init: 0.457601, pop: 0.000021, refine: 116.074994, check_goal: 0.964250, path_find: 188.364098, get_conflict: 0.000021, improve_ub: 0.000648, push: 0.000000, check_seen: 0.000132, Tot: 305.861764
+Means - path_cost: 84.06, solved: 100.00%, #itrs: 9.76, #models: 97.65, %reach: 50.97, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.77, Time: 269.17
+
+State: 17, path_cost: 81.00, solved: True, #itrs: 6, #models: 60, %reach: 40.00, %not_goal: 0.00, secs/model: 0.77, secs/path: 2.05, Time: 170.39
+Times - init: 0.459661, pop: 0.000011, refine: 46.483879, check_goal: 0.394461, path_find: 123.017859, get_conflict: 0.000010, improve_ub: 0.000173, push: 0.000000, check_seen: 0.000078, Tot: 170.356133
+Means - path_cost: 83.89, solved: 100.00%, #itrs: 9.56, #models: 95.56, %reach: 50.36, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.79, Time: 263.69
+
+State: 18, path_cost: 87.00, solved: True, #itrs: 10, #models: 100, %reach: 48.00, %not_goal: 0.00, secs/model: 1.00, secs/path: 1.83, Time: 284.13
+Times - init: 0.460096, pop: 0.000018, refine: 99.913738, check_goal: 0.798847, path_find: 182.933194, get_conflict: 0.000017, improve_ub: 0.000565, push: 0.000000, check_seen: 0.000123, Tot: 284.106597
+Means - path_cost: 84.05, solved: 100.00%, #itrs: 9.58, #models: 95.79, %reach: 50.24, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.79, Time: 264.76
+
+State: 19, path_cost: 77.00, solved: True, #itrs: 8, #models: 80, %reach: 42.50, %not_goal: 0.00, secs/model: 0.80, secs/path: 1.99, Time: 224.65
+Times - init: 0.457587, pop: 0.000014, refine: 64.351309, check_goal: 0.588286, path_find: 159.222892, get_conflict: 0.000015, improve_ub: 0.000383, push: 0.000000, check_seen: 0.000094, Tot: 224.620579
+Means - path_cost: 83.70, solved: 100.00%, #itrs: 9.50, #models: 95.00, %reach: 49.85, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.80, Time: 262.76
+
+State: 20, path_cost: 75.00, solved: True, #itrs: 10, #models: 100, %reach: 48.00, %not_goal: 0.00, secs/model: 1.00, secs/path: 1.84, Time: 285.03
+Times - init: 0.460464, pop: 0.000020, refine: 99.942313, check_goal: 0.786783, path_find: 183.815179, get_conflict: 0.000026, improve_ub: 0.000616, push: 0.000000, check_seen: 0.000116, Tot: 285.005516
+Means - path_cost: 83.29, solved: 100.00%, #itrs: 9.52, #models: 95.24, %reach: 49.77, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.80, Time: 263.82
+
+State: 21, path_cost: 80.00, solved: True, #itrs: 17, #models: 170, %reach: 53.53, %not_goal: 0.00, secs/model: 1.45, secs/path: 1.70, Time: 536.61
+Times - init: 0.457843, pop: 0.000029, refine: 245.983291, check_goal: 1.514686, path_find: 288.622103, get_conflict: 0.000036, improve_ub: 0.001295, push: 0.000000, check_seen: 0.000199, Tot: 536.579482
+Means - path_cost: 83.14, solved: 100.00%, #itrs: 9.86, #models: 98.64, %reach: 49.94, %not_goal: 0.00, secs/model: 0.93, secs/path: 1.80, Time: 276.22
+
+State: 22, path_cost: 85.00, solved: True, #itrs: 6, #models: 60, %reach: 43.33, %not_goal: 0.00, secs/model: 0.74, secs/path: 1.94, Time: 161.53
+Times - init: 0.456475, pop: 0.000013, refine: 44.135071, check_goal: 0.428202, path_find: 116.470748, get_conflict: 0.000009, improve_ub: 0.000160, push: 0.000000, check_seen: 0.000066, Tot: 161.490745
+Means - path_cost: 83.22, solved: 100.00%, #itrs: 9.70, #models: 96.96, %reach: 49.65, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.80, Time: 271.23
+
+State: 23, path_cost: 76.00, solved: True, #itrs: 15, #models: 150, %reach: 53.33, %not_goal: 0.00, secs/model: 1.30, secs/path: 1.70, Time: 450.90
+Times - init: 0.460799, pop: 0.000026, refine: 194.593484, check_goal: 1.332719, path_find: 254.486295, get_conflict: 0.000027, improve_ub: 0.001218, push: 0.000000, check_seen: 0.000168, Tot: 450.874737
+Means - path_cost: 82.92, solved: 100.00%, #itrs: 9.92, #models: 99.17, %reach: 49.80, %not_goal: 0.00, secs/model: 0.94, secs/path: 1.80, Time: 278.72
+
+State: 24, path_cost: 92.00, solved: True, #itrs: 6, #models: 60, %reach: 45.00, %not_goal: 0.00, secs/model: 0.60, secs/path: 1.86, Time: 148.17
+Times - init: 0.459886, pop: 0.000011, refine: 35.770522, check_goal: 0.445143, path_find: 111.462106, get_conflict: 0.000014, improve_ub: 0.000172, push: 0.000000, check_seen: 0.000067, Tot: 148.137922
+Means - path_cost: 83.28, solved: 100.00%, #itrs: 9.76, #models: 97.60, %reach: 49.61, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.80, Time: 273.50
+
+State: 25, path_cost: 82.00, solved: True, #itrs: 11, #models: 110, %reach: 40.91, %not_goal: 0.00, secs/model: 0.91, secs/path: 2.02, Time: 323.74
+Times - init: 0.459785, pop: 0.000020, refine: 100.182740, check_goal: 0.761779, path_find: 222.313440, get_conflict: 0.000019, improve_ub: 0.000522, push: 0.000000, check_seen: 0.000129, Tot: 323.718432
+Means - path_cost: 83.23, solved: 100.00%, #itrs: 9.81, #models: 98.08, %reach: 49.28, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.81, Time: 275.43
+
+State: 26, path_cost: 80.00, solved: True, #itrs: 11, #models: 110, %reach: 48.18, %not_goal: 0.00, secs/model: 0.95, secs/path: 1.82, Time: 305.94
+Times - init: 0.456655, pop: 0.000020, refine: 104.300795, check_goal: 0.889805, path_find: 200.262193, get_conflict: 0.000015, improve_ub: 0.000441, push: 0.000000, check_seen: 0.000130, Tot: 305.910055
+Means - path_cost: 83.11, solved: 100.00%, #itrs: 9.85, #models: 98.52, %reach: 49.24, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.81, Time: 276.56
+
+State: 27, path_cost: 80.00, solved: True, #itrs: 10, #models: 100, %reach: 46.00, %not_goal: 0.00, secs/model: 0.93, secs/path: 1.87, Time: 280.53
+Times - init: 0.460749, pop: 0.000018, refine: 92.651856, check_goal: 0.763553, path_find: 186.616495, get_conflict: 0.000020, improve_ub: 0.000656, push: 0.000000, check_seen: 0.000120, Tot: 280.493468
+Means - path_cost: 83.00, solved: 100.00%, #itrs: 9.86, #models: 98.57, %reach: 49.12, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.81, Time: 276.70
+
+State: 28, path_cost: 86.00, solved: True, #itrs: 8, #models: 80, %reach: 50.00, %not_goal: 0.00, secs/model: 0.76, secs/path: 1.78, Time: 204.74
+Times - init: 0.461393, pop: 0.000014, refine: 60.935116, check_goal: 0.653571, path_find: 142.657992, get_conflict: 0.000008, improve_ub: 0.000437, push: 0.000000, check_seen: 0.000096, Tot: 204.708627
+Means - path_cost: 83.10, solved: 100.00%, #itrs: 9.79, #models: 97.93, %reach: 49.15, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.81, Time: 274.22
+
+State: 29, path_cost: 91.00, solved: True, #itrs: 7, #models: 70, %reach: 50.00, %not_goal: 0.00, secs/model: 0.77, secs/path: 1.75, Time: 177.60
+Times - init: 0.459635, pop: 0.000013, refine: 53.879140, check_goal: 0.569375, path_find: 122.668646, get_conflict: 0.000015, improve_ub: 0.000310, push: 0.000000, check_seen: 0.000081, Tot: 177.577216
+Means - path_cost: 83.37, solved: 100.00%, #itrs: 9.70, #models: 97.00, %reach: 49.18, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.81, Time: 271.00
+
+State: 30, path_cost: 85.00, solved: True, #itrs: 7, #models: 70, %reach: 37.14, %not_goal: 0.00, secs/model: 0.71, secs/path: 2.09, Time: 196.99
+Times - init: 0.460479, pop: 0.000011, refine: 49.585983, check_goal: 0.440615, path_find: 146.480694, get_conflict: 0.000013, improve_ub: 0.000209, push: 0.000000, check_seen: 0.000081, Tot: 196.968084
+Means - path_cost: 83.42, solved: 100.00%, #itrs: 9.61, #models: 96.13, %reach: 48.79, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 268.61
+
+State: 31, path_cost: 85.00, solved: True, #itrs: 11, #models: 110, %reach: 42.73, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.94, Time: 315.55
+Times - init: 0.459219, pop: 0.000018, refine: 101.096114, check_goal: 0.796932, path_find: 213.167745, get_conflict: 0.000023, improve_ub: 0.000779, push: 0.000000, check_seen: 0.000131, Tot: 315.520962
+Means - path_cost: 83.47, solved: 100.00%, #itrs: 9.66, #models: 96.56, %reach: 48.60, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 270.08
+
+State: 32, path_cost: 87.00, solved: True, #itrs: 11, #models: 110, %reach: 55.45, %not_goal: 0.00, secs/model: 0.93, secs/path: 1.66, Time: 285.53
+Times - init: 0.458902, pop: 0.000021, refine: 101.968378, check_goal: 0.999285, path_find: 182.069983, get_conflict: 0.000017, improve_ub: 0.000513, push: 0.000000, check_seen: 0.000126, Tot: 285.497224
+Means - path_cost: 83.58, solved: 100.00%, #itrs: 9.70, #models: 96.97, %reach: 48.81, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 270.55
+
+State: 33, path_cost: 95.00, solved: True, #itrs: 7, #models: 70, %reach: 42.86, %not_goal: 0.00, secs/model: 0.76, secs/path: 1.99, Time: 193.08
+Times - init: 0.457134, pop: 0.000012, refine: 52.932876, check_goal: 0.493554, path_find: 139.164130, get_conflict: 0.000010, improve_ub: 0.000429, push: 0.000000, check_seen: 0.000078, Tot: 193.048224
+Means - path_cost: 83.91, solved: 100.00%, #itrs: 9.62, #models: 96.18, %reach: 48.63, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.82, Time: 268.27
+
+State: 34, path_cost: 85.00, solved: True, #itrs: 11, #models: 110, %reach: 54.55, %not_goal: 0.00, secs/model: 0.98, secs/path: 1.67, Time: 291.97
+Times - init: 0.460667, pop: 0.000020, refine: 107.281457, check_goal: 0.986703, path_find: 183.215822, get_conflict: 0.000014, improve_ub: 0.000901, push: 0.000000, check_seen: 0.000137, Tot: 291.945720
+Means - path_cost: 83.94, solved: 100.00%, #itrs: 9.66, #models: 96.57, %reach: 48.80, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 268.94
+
+State: 35, path_cost: 81.00, solved: True, #itrs: 14, #models: 140, %reach: 51.43, %not_goal: 0.00, secs/model: 1.21, secs/path: 1.78, Time: 420.72
+Times - init: 0.458340, pop: 0.000027, refine: 169.391085, check_goal: 1.210314, path_find: 249.626920, get_conflict: 0.000031, improve_ub: 0.000734, push: 0.000000, check_seen: 0.000162, Tot: 420.687613
+Means - path_cost: 83.86, solved: 100.00%, #itrs: 9.78, #models: 97.78, %reach: 48.88, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 273.16
+
+State: 36, path_cost: 81.00, solved: True, #itrs: 9, #models: 90, %reach: 53.33, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.71, Time: 237.58
+Times - init: 0.457697, pop: 0.000016, refine: 82.356697, check_goal: 0.775850, path_find: 153.954001, get_conflict: 0.000016, improve_ub: 0.000533, push: 0.000000, check_seen: 0.000108, Tot: 237.544918
+Means - path_cost: 83.78, solved: 100.00%, #itrs: 9.76, #models: 97.57, %reach: 49.00, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.81, Time: 272.20
+
+State: 37, path_cost: 80.00, solved: True, #itrs: 10, #models: 100, %reach: 56.00, %not_goal: 0.00, secs/model: 0.83, secs/path: 1.63, Time: 247.13
+Times - init: 0.461575, pop: 0.000019, refine: 83.085942, check_goal: 0.922293, path_find: 162.625681, get_conflict: 0.000026, improve_ub: 0.001031, push: 0.000000, check_seen: 0.000118, Tot: 247.096686
+Means - path_cost: 83.68, solved: 100.00%, #itrs: 9.76, #models: 97.63, %reach: 49.18, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.81, Time: 271.54
+
+State: 38, path_cost: 81.00, solved: True, #itrs: 11, #models: 110, %reach: 44.55, %not_goal: 0.00, secs/model: 1.03, secs/path: 1.91, Time: 325.61
+Times - init: 0.460920, pop: 0.000020, refine: 113.823624, check_goal: 0.810348, path_find: 210.486196, get_conflict: 0.000031, improve_ub: 0.000424, push: 0.000000, check_seen: 0.000127, Tot: 325.581690
+Means - path_cost: 83.62, solved: 100.00%, #itrs: 9.79, #models: 97.95, %reach: 49.06, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.81, Time: 272.93
+
+State: 39, path_cost: 82.00, solved: True, #itrs: 7, #models: 70, %reach: 40.00, %not_goal: 0.00, secs/model: 0.71, secs/path: 2.04, Time: 193.41
+Times - init: 0.459278, pop: 0.000013, refine: 49.689276, check_goal: 0.472467, path_find: 142.761305, get_conflict: 0.000011, improve_ub: 0.000273, push: 0.000000, check_seen: 0.000086, Tot: 193.382708
+Means - path_cost: 83.58, solved: 100.00%, #itrs: 9.72, #models: 97.25, %reach: 48.83, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 270.94
+
+State: 40, path_cost: 86.00, solved: True, #itrs: 11, #models: 110, %reach: 47.27, %not_goal: 0.00, secs/model: 1.00, secs/path: 1.85, Time: 314.19
+Times - init: 0.460676, pop: 0.000020, refine: 109.753521, check_goal: 0.859408, path_find: 203.084498, get_conflict: 0.000018, improve_ub: 0.001046, push: 0.000000, check_seen: 0.000127, Tot: 314.159314
+Means - path_cost: 83.63, solved: 100.00%, #itrs: 9.76, #models: 97.56, %reach: 48.80, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 271.99
+
+State: 41, path_cost: 88.00, solved: True, #itrs: 9, #models: 90, %reach: 52.22, %not_goal: 0.00, secs/model: 0.93, secs/path: 1.72, Time: 240.01
+Times - init: 0.460373, pop: 0.000016, refine: 83.670450, check_goal: 0.765899, path_find: 155.083135, get_conflict: 0.000017, improve_ub: 0.000587, push: 0.000000, check_seen: 0.000107, Tot: 239.980583
+Means - path_cost: 83.74, solved: 100.00%, #itrs: 9.74, #models: 97.38, %reach: 48.88, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.82, Time: 271.23
+
+State: 42, path_cost: 88.00, solved: True, #itrs: 6, #models: 60, %reach: 58.33, %not_goal: 0.00, secs/model: 0.63, secs/path: 1.57, Time: 132.69
+Times - init: 0.459019, pop: 0.000011, refine: 37.564646, check_goal: 0.572522, path_find: 94.071175, get_conflict: 0.000012, improve_ub: 0.000059, push: 0.000000, check_seen: 0.000067, Tot: 132.667511
+Means - path_cost: 83.84, solved: 100.00%, #itrs: 9.65, #models: 96.51, %reach: 49.10, %not_goal: 0.00, secs/model: 0.91, secs/path: 1.81, Time: 268.01
+
+State: 43, path_cost: 84.00, solved: True, #itrs: 6, #models: 60, %reach: 43.33, %not_goal: 0.00, secs/model: 0.64, secs/path: 1.92, Time: 154.41
+Times - init: 0.458894, pop: 0.000011, refine: 38.372267, check_goal: 0.436301, path_find: 115.116723, get_conflict: 0.000016, improve_ub: 0.000053, push: 0.000000, check_seen: 0.000066, Tot: 154.384332
+Means - path_cost: 83.84, solved: 100.00%, #itrs: 9.57, #models: 95.68, %reach: 48.97, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.81, Time: 265.43
+
+State: 44, path_cost: 75.00, solved: True, #itrs: 7, #models: 70, %reach: 54.29, %not_goal: 0.00, secs/model: 0.61, secs/path: 1.67, Time: 160.16
+Times - init: 0.463793, pop: 0.000013, refine: 42.489110, check_goal: 0.629558, path_find: 116.555973, get_conflict: 0.000015, improve_ub: 0.000308, push: 0.000000, check_seen: 0.000077, Tot: 160.138846
+Means - path_cost: 83.64, solved: 100.00%, #itrs: 9.51, #models: 95.11, %reach: 49.09, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.81, Time: 263.09
+
+State: 45, path_cost: 87.00, solved: True, #itrs: 10, #models: 100, %reach: 48.00, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.83, Time: 271.96
+Times - init: 0.458482, pop: 0.000019, refine: 87.501295, check_goal: 0.795338, path_find: 183.178683, get_conflict: 0.000016, improve_ub: 0.000354, push: 0.000000, check_seen: 0.000112, Tot: 271.934299
+Means - path_cost: 83.72, solved: 100.00%, #itrs: 9.52, #models: 95.22, %reach: 49.06, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.81, Time: 263.28
+
+State: 46, path_cost: 77.00, solved: True, #itrs: 7, #models: 70, %reach: 60.00, %not_goal: 0.00, secs/model: 0.71, secs/path: 1.52, Time: 157.36
+Times - init: 0.459263, pop: 0.000014, refine: 49.846101, check_goal: 0.674686, path_find: 106.348143, get_conflict: 0.000018, improve_ub: 0.000317, push: 0.000000, check_seen: 0.000080, Tot: 157.328621
+Means - path_cost: 83.57, solved: 100.00%, #itrs: 9.47, #models: 94.68, %reach: 49.29, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.80, Time: 261.03
+
+State: 47, path_cost: 83.00, solved: True, #itrs: 11, #models: 110, %reach: 53.64, %not_goal: 0.00, secs/model: 1.00, secs/path: 1.68, Time: 296.02
+Times - init: 0.461288, pop: 0.000021, refine: 109.938779, check_goal: 0.974888, path_find: 184.618366, get_conflict: 0.000021, improve_ub: 0.000503, push: 0.000000, check_seen: 0.000127, Tot: 295.993993
+Means - path_cost: 83.56, solved: 100.00%, #itrs: 9.50, #models: 95.00, %reach: 49.38, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.80, Time: 261.76
+
+State: 48, path_cost: 83.00, solved: True, #itrs: 10, #models: 100, %reach: 52.00, %not_goal: 0.00, secs/model: 0.96, secs/path: 1.73, Time: 269.57
+Times - init: 0.457138, pop: 0.000017, refine: 95.639444, check_goal: 0.854647, path_find: 172.590375, get_conflict: 0.000013, improve_ub: 0.000561, push: 0.000000, check_seen: 0.000118, Tot: 269.542313
+Means - path_cost: 83.55, solved: 100.00%, #itrs: 9.51, #models: 95.10, %reach: 49.44, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.80, Time: 261.92
+
+State: 49, path_cost: 83.00, solved: True, #itrs: 11, #models: 110, %reach: 60.91, %not_goal: 0.00, secs/model: 1.18, secs/path: 1.51, Time: 297.52
+Times - init: 0.460718, pop: 0.000020, refine: 129.915078, check_goal: 1.078357, path_find: 166.033929, get_conflict: 0.000018, improve_ub: 0.000510, push: 0.000000, check_seen: 0.000129, Tot: 297.488760
+Means - path_cost: 83.54, solved: 100.00%, #itrs: 9.54, #models: 95.40, %reach: 49.67, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.79, Time: 262.63
+
+State: 50, path_cost: 62.00, solved: True, #itrs: 9, #models: 90, %reach: 43.33, %not_goal: 0.00, secs/model: 0.81, secs/path: 1.97, Time: 250.63
+Times - init: 0.459016, pop: 0.000015, refine: 72.556522, check_goal: 0.655904, path_find: 176.933665, get_conflict: 0.000013, improve_ub: 0.000544, push: 0.000000, check_seen: 0.000107, Tot: 250.605786
+Means - path_cost: 83.12, solved: 100.00%, #itrs: 9.53, #models: 95.29, %reach: 49.54, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.80, Time: 262.39
+
+State: 51, path_cost: 80.00, solved: True, #itrs: 11, #models: 110, %reach: 59.09, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.55, Time: 271.20
+Times - init: 0.457628, pop: 0.000023, refine: 99.529872, check_goal: 1.075475, path_find: 170.102055, get_conflict: 0.000010, improve_ub: 0.000728, push: 0.000000, check_seen: 0.000134, Tot: 271.165926
+Means - path_cost: 83.06, solved: 100.00%, #itrs: 9.56, #models: 95.58, %reach: 49.73, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.79, Time: 262.56
+
+State: 52, path_cost: 89.00, solved: True, #itrs: 9, #models: 90, %reach: 56.67, %not_goal: 0.00, secs/model: 0.82, secs/path: 1.60, Time: 219.45
+Times - init: 0.458843, pop: 0.000017, refine: 74.061537, check_goal: 0.833303, path_find: 144.061157, get_conflict: 0.000019, improve_ub: 0.000249, push: 0.000000, check_seen: 0.000105, Tot: 219.415230
+Means - path_cost: 83.17, solved: 100.00%, #itrs: 9.55, #models: 95.47, %reach: 49.86, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.79, Time: 261.75
+
+State: 53, path_cost: 85.00, solved: True, #itrs: 9, #models: 90, %reach: 54.44, %not_goal: 0.00, secs/model: 0.74, secs/path: 1.67, Time: 218.35
+Times - init: 0.459087, pop: 0.000015, refine: 66.805107, check_goal: 0.810421, path_find: 150.249061, get_conflict: 0.000017, improve_ub: 0.000187, push: 0.000000, check_seen: 0.000102, Tot: 218.323997
+Means - path_cost: 83.20, solved: 100.00%, #itrs: 9.54, #models: 95.37, %reach: 49.94, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.79, Time: 260.94
+
+State: 54, path_cost: 87.00, solved: True, #itrs: 6, #models: 60, %reach: 48.33, %not_goal: 0.00, secs/model: 0.53, secs/path: 1.84, Time: 142.58
+Times - init: 0.461755, pop: 0.000013, refine: 31.512225, check_goal: 0.476742, path_find: 110.103237, get_conflict: 0.000010, improve_ub: 0.000175, push: 0.000000, check_seen: 0.000068, Tot: 142.554225
+Means - path_cost: 83.27, solved: 100.00%, #itrs: 9.47, #models: 94.73, %reach: 49.91, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.79, Time: 258.79
+
+State: 55, path_cost: 87.00, solved: True, #itrs: 9, #models: 90, %reach: 48.89, %not_goal: 0.00, secs/model: 0.72, secs/path: 1.79, Time: 226.99
+Times - init: 0.460588, pop: 0.000017, refine: 64.749610, check_goal: 0.749434, path_find: 161.005218, get_conflict: 0.000021, improve_ub: 0.000227, push: 0.000000, check_seen: 0.000103, Tot: 226.965217
+Means - path_cost: 83.34, solved: 100.00%, #itrs: 9.46, #models: 94.64, %reach: 49.90, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.79, Time: 258.22
+
+State: 56, path_cost: 92.00, solved: True, #itrs: 6, #models: 60, %reach: 53.33, %not_goal: 0.00, secs/model: 0.67, secs/path: 1.72, Time: 144.54
+Times - init: 0.459975, pop: 0.000012, refine: 40.285657, check_goal: 0.515389, path_find: 103.254887, get_conflict: 0.000016, improve_ub: 0.000164, push: 0.000000, check_seen: 0.000069, Tot: 144.516170
+Means - path_cost: 83.49, solved: 100.00%, #itrs: 9.40, #models: 94.04, %reach: 49.96, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.79, Time: 256.23
+
+State: 57, path_cost: 86.00, solved: True, #itrs: 7, #models: 70, %reach: 60.00, %not_goal: 0.00, secs/model: 0.64, secs/path: 1.51, Time: 151.52
+Times - init: 0.461525, pop: 0.000013, refine: 45.002580, check_goal: 0.680312, path_find: 105.355263, get_conflict: 0.000010, improve_ub: 0.000262, push: 0.000000, check_seen: 0.000079, Tot: 151.500046
+Means - path_cost: 83.53, solved: 100.00%, #itrs: 9.36, #models: 93.62, %reach: 50.13, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 254.43
+
+State: 58, path_cost: 85.00, solved: True, #itrs: 14, #models: 140, %reach: 50.00, %not_goal: 0.00, secs/model: 1.18, secs/path: 1.80, Time: 419.13
+Times - init: 0.460022, pop: 0.000027, refine: 165.778481, check_goal: 1.179714, path_find: 251.686606, get_conflict: 0.000033, improve_ub: 0.000476, push: 0.000000, check_seen: 0.000167, Tot: 419.105527
+Means - path_cost: 83.56, solved: 100.00%, #itrs: 9.44, #models: 94.41, %reach: 50.13, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 257.22
+
+State: 59, path_cost: 84.00, solved: True, #itrs: 8, #models: 80, %reach: 51.25, %not_goal: 0.00, secs/model: 0.79, secs/path: 1.76, Time: 204.90
+Times - init: 0.456261, pop: 0.000016, refine: 63.083083, check_goal: 0.673253, path_find: 140.653793, get_conflict: 0.000013, improve_ub: 0.000350, push: 0.000000, check_seen: 0.000097, Tot: 204.866866
+Means - path_cost: 83.57, solved: 100.00%, #itrs: 9.42, #models: 94.17, %reach: 50.15, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 256.34
+
+State: 60, path_cost: 90.00, solved: True, #itrs: 7, #models: 70, %reach: 48.57, %not_goal: 0.00, secs/model: 0.68, secs/path: 1.81, Time: 175.46
+Times - init: 0.456982, pop: 0.000011, refine: 47.619035, check_goal: 0.553553, path_find: 126.806441, get_conflict: 0.000011, improve_ub: 0.000323, push: 0.000000, check_seen: 0.000082, Tot: 175.436438
+Means - path_cost: 83.67, solved: 100.00%, #itrs: 9.38, #models: 93.77, %reach: 50.12, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 255.02
+
+State: 61, path_cost: 80.00, solved: True, #itrs: 9, #models: 90, %reach: 55.56, %not_goal: 0.00, secs/model: 0.83, secs/path: 1.64, Time: 223.96
+Times - init: 0.461342, pop: 0.000016, refine: 74.954634, check_goal: 0.810346, path_find: 147.706093, get_conflict: 0.000015, improve_ub: 0.000242, push: 0.000000, check_seen: 0.000104, Tot: 223.932792
+Means - path_cost: 83.61, solved: 100.00%, #itrs: 9.37, #models: 93.71, %reach: 50.21, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 254.52
+
+State: 62, path_cost: 94.00, solved: True, #itrs: 7, #models: 70, %reach: 50.00, %not_goal: 0.00, secs/model: 0.63, secs/path: 1.78, Time: 169.09
+Times - init: 0.463297, pop: 0.000014, refine: 43.761933, check_goal: 0.572364, path_find: 124.269788, get_conflict: 0.000014, improve_ub: 0.000283, push: 0.000000, check_seen: 0.000078, Tot: 169.067770
+Means - path_cost: 83.78, solved: 100.00%, #itrs: 9.33, #models: 93.33, %reach: 50.20, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 253.16
+
+State: 63, path_cost: 85.00, solved: True, #itrs: 7, #models: 70, %reach: 51.43, %not_goal: 0.00, secs/model: 0.73, secs/path: 1.73, Time: 173.69
+Times - init: 0.461408, pop: 0.000014, refine: 51.209779, check_goal: 0.593158, path_find: 121.399452, get_conflict: 0.000017, improve_ub: 0.000246, push: 0.000000, check_seen: 0.000082, Tot: 173.664155
+Means - path_cost: 83.80, solved: 100.00%, #itrs: 9.30, #models: 92.97, %reach: 50.22, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 251.92
+
+State: 64, path_cost: 83.00, solved: True, #itrs: 8, #models: 80, %reach: 56.25, %not_goal: 0.00, secs/model: 0.80, secs/path: 1.64, Time: 195.86
+Times - init: 0.462094, pop: 0.000016, refine: 63.678669, check_goal: 0.722616, path_find: 130.967753, get_conflict: 0.000020, improve_ub: 0.000340, push: 0.000000, check_seen: 0.000093, Tot: 195.831601
+Means - path_cost: 83.78, solved: 100.00%, #itrs: 9.28, #models: 92.77, %reach: 50.32, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 251.06
+
+State: 65, path_cost: 85.00, solved: True, #itrs: 15, #models: 150, %reach: 46.00, %not_goal: 0.00, secs/model: 1.32, secs/path: 1.89, Time: 483.59
+Times - init: 0.459267, pop: 0.000028, refine: 197.849906, check_goal: 1.152369, path_find: 284.092482, get_conflict: 0.000028, improve_ub: 0.000766, push: 0.000000, check_seen: 0.000173, Tot: 483.555018
+Means - path_cost: 83.80, solved: 100.00%, #itrs: 9.36, #models: 93.64, %reach: 50.25, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 254.58
+
+State: 66, path_cost: 83.00, solved: True, #itrs: 8, #models: 80, %reach: 58.75, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.54, Time: 194.80
+Times - init: 0.457302, pop: 0.000015, refine: 70.368132, check_goal: 0.751821, path_find: 123.189695, get_conflict: 0.000008, improve_ub: 0.000833, push: 0.000000, check_seen: 0.000096, Tot: 194.767902
+Means - path_cost: 83.79, solved: 100.00%, #itrs: 9.34, #models: 93.43, %reach: 50.38, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 253.69
+
+State: 67, path_cost: 93.00, solved: True, #itrs: 10, #models: 100, %reach: 43.00, %not_goal: 0.00, secs/model: 0.92, secs/path: 1.95, Time: 288.03
+Times - init: 0.460733, pop: 0.000019, refine: 91.585008, check_goal: 0.712140, path_find: 195.243780, get_conflict: 0.000029, improve_ub: 0.000355, push: 0.000000, check_seen: 0.000114, Tot: 288.002177
+Means - path_cost: 83.93, solved: 100.00%, #itrs: 9.35, #models: 93.53, %reach: 50.27, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 254.19
+
+State: 68, path_cost: 76.00, solved: True, #itrs: 16, #models: 160, %reach: 50.00, %not_goal: 0.00, secs/model: 1.32, secs/path: 1.78, Time: 497.56
+Times - init: 0.457072, pop: 0.000031, refine: 210.594818, check_goal: 1.336174, path_find: 285.138803, get_conflict: 0.000032, improve_ub: 0.000990, push: 0.000000, check_seen: 0.000192, Tot: 497.528111
+Means - path_cost: 83.81, solved: 100.00%, #itrs: 9.45, #models: 94.49, %reach: 50.26, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 257.72
+
+State: 69, path_cost: 82.00, solved: True, #itrs: 10, #models: 100, %reach: 51.00, %not_goal: 0.00, secs/model: 0.83, secs/path: 1.74, Time: 258.62
+Times - init: 0.455866, pop: 0.000017, refine: 83.212870, check_goal: 0.844906, path_find: 174.065388, get_conflict: 0.000016, improve_ub: 0.000537, push: 0.000000, check_seen: 0.000118, Tot: 258.579718
+Means - path_cost: 83.79, solved: 100.00%, #itrs: 9.46, #models: 94.57, %reach: 50.28, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.78, Time: 257.73
+
+State: 70, path_cost: 78.00, solved: True, #itrs: 9, #models: 90, %reach: 60.00, %not_goal: 0.00, secs/model: 0.79, secs/path: 1.54, Time: 211.55
+Times - init: 0.458242, pop: 0.000015, refine: 71.472447, check_goal: 0.880965, path_find: 138.705175, get_conflict: 0.000011, improve_ub: 0.000427, push: 0.000000, check_seen: 0.000109, Tot: 211.517393
+Means - path_cost: 83.70, solved: 100.00%, #itrs: 9.45, #models: 94.51, %reach: 50.41, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 257.08
+
+State: 71, path_cost: 87.00, solved: True, #itrs: 13, #models: 130, %reach: 53.85, %not_goal: 0.00, secs/model: 1.05, secs/path: 1.70, Time: 359.77
+Times - init: 0.458172, pop: 0.000024, refine: 136.685787, check_goal: 1.171666, path_find: 221.420118, get_conflict: 0.000024, improve_ub: 0.000382, push: 0.000000, check_seen: 0.000152, Tot: 359.736325
+Means - path_cost: 83.75, solved: 100.00%, #itrs: 9.50, #models: 95.00, %reach: 50.46, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 258.51
+
+State: 72, path_cost: 88.00, solved: True, #itrs: 11, #models: 110, %reach: 50.91, %not_goal: 0.00, secs/model: 0.95, secs/path: 1.75, Time: 298.45
+Times - init: 0.458022, pop: 0.000019, refine: 104.036861, check_goal: 0.914140, path_find: 193.008720, get_conflict: 0.000016, improve_ub: 0.000566, push: 0.000000, check_seen: 0.000127, Tot: 298.418470
+Means - path_cost: 83.81, solved: 100.00%, #itrs: 9.52, #models: 95.21, %reach: 50.47, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 259.06
+
+State: 73, path_cost: 81.00, solved: True, #itrs: 10, #models: 100, %reach: 58.00, %not_goal: 0.00, secs/model: 0.86, secs/path: 1.61, Time: 247.82
+Times - init: 0.459427, pop: 0.000016, refine: 85.514638, check_goal: 0.953187, path_find: 160.858454, get_conflict: 0.000013, improve_ub: 0.000570, push: 0.000000, check_seen: 0.000120, Tot: 247.786426
+Means - path_cost: 83.77, solved: 100.00%, #itrs: 9.53, #models: 95.27, %reach: 50.57, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 258.90
+
+State: 74, path_cost: 87.00, solved: True, #itrs: 6, #models: 60, %reach: 48.33, %not_goal: 0.00, secs/model: 0.62, secs/path: 1.81, Time: 146.90
+Times - init: 0.458289, pop: 0.000011, refine: 37.400712, check_goal: 0.473667, path_find: 108.537457, get_conflict: 0.000014, improve_ub: 0.000102, push: 0.000000, check_seen: 0.000066, Tot: 146.870317
+Means - path_cost: 83.81, solved: 100.00%, #itrs: 9.48, #models: 94.80, %reach: 50.54, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 257.41
+
+State: 75, path_cost: 87.00, solved: True, #itrs: 6, #models: 60, %reach: 40.00, %not_goal: 0.00, secs/model: 0.65, secs/path: 2.07, Time: 163.96
+Times - init: 0.464442, pop: 0.000010, refine: 38.887753, check_goal: 0.398242, path_find: 124.184199, get_conflict: 0.000007, improve_ub: 0.000157, push: 0.000000, check_seen: 0.000071, Tot: 163.934880
+Means - path_cost: 83.86, solved: 100.00%, #itrs: 9.43, #models: 94.34, %reach: 50.40, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 256.18
+
+State: 76, path_cost: 85.00, solved: True, #itrs: 6, #models: 60, %reach: 58.33, %not_goal: 0.00, secs/model: 0.58, secs/path: 1.58, Time: 130.32
+Times - init: 0.463053, pop: 0.000013, refine: 34.747494, check_goal: 0.563772, path_find: 94.521438, get_conflict: 0.000006, improve_ub: 0.000161, push: 0.000000, check_seen: 0.000071, Tot: 130.296008
+Means - path_cost: 83.87, solved: 100.00%, #itrs: 9.39, #models: 93.90, %reach: 50.50, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 254.55
+
+State: 77, path_cost: 91.00, solved: True, #itrs: 11, #models: 110, %reach: 58.18, %not_goal: 0.00, secs/model: 1.09, secs/path: 1.59, Time: 296.49
+Times - init: 0.461792, pop: 0.000021, refine: 120.174158, check_goal: 1.044513, path_find: 174.786118, get_conflict: 0.000020, improve_ub: 0.000513, push: 0.000000, check_seen: 0.000127, Tot: 296.467261
+Means - path_cost: 83.96, solved: 100.00%, #itrs: 9.41, #models: 94.10, %reach: 50.60, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 255.08
+
+State: 78, path_cost: 89.00, solved: True, #itrs: 7, #models: 70, %reach: 47.14, %not_goal: 0.00, secs/model: 0.65, secs/path: 1.87, Time: 177.81
+Times - init: 0.459963, pop: 0.000012, refine: 45.696989, check_goal: 0.542127, path_find: 131.084979, get_conflict: 0.000017, improve_ub: 0.000296, push: 0.000000, check_seen: 0.000075, Tot: 177.784458
+Means - path_cost: 84.03, solved: 100.00%, #itrs: 9.38, #models: 93.80, %reach: 50.56, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 254.11
+
+State: 79, path_cost: 84.00, solved: True, #itrs: 9, #models: 90, %reach: 50.00, %not_goal: 0.00, secs/model: 0.84, secs/path: 1.76, Time: 235.42
+Times - init: 0.462191, pop: 0.000017, refine: 75.433374, check_goal: 0.738400, path_find: 158.762864, get_conflict: 0.000015, improve_ub: 0.000177, push: 0.000000, check_seen: 0.000108, Tot: 235.397145
+Means - path_cost: 84.03, solved: 100.00%, #itrs: 9.38, #models: 93.75, %reach: 50.55, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 253.87
+
+State: 80, path_cost: 76.00, solved: True, #itrs: 9, #models: 90, %reach: 43.33, %not_goal: 0.00, secs/model: 0.81, secs/path: 1.97, Time: 251.29
+Times - init: 0.459344, pop: 0.000015, refine: 73.128742, check_goal: 0.656050, path_find: 177.018128, get_conflict: 0.000016, improve_ub: 0.000385, push: 0.000000, check_seen: 0.000109, Tot: 251.262791
+Means - path_cost: 83.93, solved: 100.00%, #itrs: 9.37, #models: 93.70, %reach: 50.46, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 253.84
+
+State: 81, path_cost: 86.00, solved: True, #itrs: 7, #models: 70, %reach: 50.00, %not_goal: 0.00, secs/model: 0.70, secs/path: 1.75, Time: 172.79
+Times - init: 0.459253, pop: 0.000014, refine: 49.266599, check_goal: 0.570995, path_find: 122.464424, get_conflict: 0.000007, improve_ub: 0.000396, push: 0.000000, check_seen: 0.000081, Tot: 172.761769
+Means - path_cost: 83.95, solved: 100.00%, #itrs: 9.34, #models: 93.41, %reach: 50.46, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 252.85
+
+State: 82, path_cost: 90.00, solved: True, #itrs: 6, #models: 60, %reach: 43.33, %not_goal: 0.00, secs/model: 0.72, secs/path: 1.93, Time: 159.52
+Times - init: 0.460470, pop: 0.000011, refine: 43.053485, check_goal: 0.432697, path_find: 115.548552, get_conflict: 0.000017, improve_ub: 0.000107, push: 0.000000, check_seen: 0.000065, Tot: 159.495405
+Means - path_cost: 84.02, solved: 100.00%, #itrs: 9.30, #models: 93.01, %reach: 50.37, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 251.73
+
+Parsed input clauses:
+[goal:- all_r_sum_even]
+device: cuda:0, devices: [1], on_gpu: True
+Parsed input clauses:
+[goal:- all_r_sum_even]
+device: cuda:0, devices: [0], on_gpu: True
+State: 83, path_cost: 88.00, solved: True, #itrs: 7, #models: 70, %reach: 42.86, %not_goal: 0.00, secs/model: 0.70, secs/path: 2.01, Time: 190.91
+Times - init: 0.446521, pop: 0.000012, refine: 49.036327, check_goal: 0.492716, path_find: 140.923580, get_conflict: 0.000007, improve_ub: 0.000297, push: 0.000000, check_seen: 0.000085, Tot: 190.899544
+Means - path_cost: 84.07, solved: 100.00%, #itrs: 9.27, #models: 92.74, %reach: 50.28, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 251.00
+
+State: 84, path_cost: 87.00, solved: True, #itrs: 8, #models: 80, %reach: 48.75, %not_goal: 0.00, secs/model: 0.96, secs/path: 1.83, Time: 224.50
+Times - init: 0.445956, pop: 0.000017, refine: 77.183713, check_goal: 0.663153, path_find: 146.179568, get_conflict: 0.000012, improve_ub: 0.000520, push: 0.000000, check_seen: 0.000096, Tot: 224.473034
+Means - path_cost: 84.11, solved: 100.00%, #itrs: 9.26, #models: 92.59, %reach: 50.26, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 250.69
+
+State: 85, path_cost: 73.00, solved: True, #itrs: 7, #models: 70, %reach: 48.57, %not_goal: 0.00, secs/model: 0.81, secs/path: 1.82, Time: 185.43
+Times - init: 0.449557, pop: 0.000013, refine: 56.763752, check_goal: 0.599322, path_find: 127.592235, get_conflict: 0.000013, improve_ub: 0.000291, push: 0.000000, check_seen: 0.000087, Tot: 185.405269
+Means - path_cost: 83.98, solved: 100.00%, #itrs: 9.23, #models: 92.33, %reach: 50.24, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.93
+
+State: 86, path_cost: 80.00, solved: True, #itrs: 7, #models: 70, %reach: 44.29, %not_goal: 0.00, secs/model: 0.83, secs/path: 1.94, Time: 194.81
+Times - init: 0.451187, pop: 0.000015, refine: 57.995997, check_goal: 0.530371, path_find: 135.807548, get_conflict: 0.000014, improve_ub: 0.000404, push: 0.000000, check_seen: 0.000082, Tot: 194.785617
+Means - path_cost: 83.93, solved: 100.00%, #itrs: 9.21, #models: 92.07, %reach: 50.17, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.30
+
+State: 87, path_cost: 85.00, solved: True, #itrs: 6, #models: 60, %reach: 51.67, %not_goal: 0.00, secs/model: 0.72, secs/path: 1.77, Time: 150.43
+Times - init: 0.454092, pop: 0.000014, refine: 43.300766, check_goal: 0.530021, path_find: 106.121981, get_conflict: 0.000010, improve_ub: 0.000136, push: 0.000000, check_seen: 0.000067, Tot: 150.407088
+Means - path_cost: 83.94, solved: 100.00%, #itrs: 9.17, #models: 91.70, %reach: 50.19, %not_goal: 0.00, secs/model: 0.86, secs/path: 1.78, Time: 248.18
+
+State: 88, path_cost: 81.00, solved: True, #itrs: 12, #models: 120, %reach: 44.17, %not_goal: 0.00, secs/model: 1.26, secs/path: 1.96, Time: 387.59
+Times - init: 0.449848, pop: 0.000024, refine: 151.038805, check_goal: 0.913851, path_find: 235.152438, get_conflict: 0.000023, improve_ub: 0.000515, push: 0.000000, check_seen: 0.000153, Tot: 387.555657
+Means - path_cost: 83.91, solved: 100.00%, #itrs: 9.20, #models: 92.02, %reach: 50.12, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.74
+
+State: 89, path_cost: 79.00, solved: True, #itrs: 10, #models: 100, %reach: 54.00, %not_goal: 0.00, secs/model: 1.02, secs/path: 1.67, Time: 270.12
+Times - init: 0.447571, pop: 0.000019, refine: 101.644299, check_goal: 0.910885, path_find: 167.082130, get_conflict: 0.000015, improve_ub: 0.000685, push: 0.000000, check_seen: 0.000119, Tot: 270.085723
+Means - path_cost: 83.86, solved: 100.00%, #itrs: 9.21, #models: 92.11, %reach: 50.17, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.97
+
+State: 90, path_cost: 88.00, solved: True, #itrs: 7, #models: 70, %reach: 57.14, %not_goal: 0.00, secs/model: 0.80, secs/path: 1.58, Time: 167.60
+Times - init: 0.450413, pop: 0.000013, refine: 56.029652, check_goal: 0.660252, path_find: 110.426549, get_conflict: 0.000015, improve_ub: 0.000507, push: 0.000000, check_seen: 0.000079, Tot: 167.567480
+Means - path_cost: 83.90, solved: 100.00%, #itrs: 9.19, #models: 91.87, %reach: 50.24, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.06
+
+State: 91, path_cost: 83.00, solved: True, #itrs: 8, #models: 80, %reach: 47.50, %not_goal: 0.00, secs/model: 0.90, secs/path: 1.84, Time: 219.71
+Times - init: 0.446623, pop: 0.000013, refine: 71.752424, check_goal: 0.643358, path_find: 146.839979, get_conflict: 0.000010, improve_ub: 0.000524, push: 0.000000, check_seen: 0.000098, Tot: 219.683029
+Means - path_cost: 83.89, solved: 100.00%, #itrs: 9.17, #models: 91.74, %reach: 50.21, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 248.74
+
+State: 92, path_cost: 86.00, solved: True, #itrs: 6, #models: 60, %reach: 53.33, %not_goal: 0.00, secs/model: 0.67, secs/path: 1.68, Time: 142.10
+Times - init: 0.446512, pop: 0.000012, refine: 40.492989, check_goal: 0.531868, path_find: 100.601907, get_conflict: 0.000006, improve_ub: 0.000176, push: 0.000000, check_seen: 0.000070, Tot: 142.073540
+Means - path_cost: 83.91, solved: 100.00%, #itrs: 9.14, #models: 91.40, %reach: 50.25, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 247.60
+
+State: 93, path_cost: 82.00, solved: True, #itrs: 11, #models: 110, %reach: 54.55, %not_goal: 0.00, secs/model: 1.15, secs/path: 1.67, Time: 311.59
+Times - init: 0.448147, pop: 0.000021, refine: 126.694541, check_goal: 0.988717, path_find: 183.428931, get_conflict: 0.000018, improve_ub: 0.000562, push: 0.000000, check_seen: 0.000131, Tot: 311.561069
+Means - path_cost: 83.89, solved: 100.00%, #itrs: 9.16, #models: 91.60, %reach: 50.29, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 248.28
+
+State: 94, path_cost: 78.00, solved: True, #itrs: 9, #models: 90, %reach: 60.00, %not_goal: 0.00, secs/model: 0.89, secs/path: 1.51, Time: 217.21
+Times - init: 0.445953, pop: 0.000017, refine: 80.116064, check_goal: 0.863396, path_find: 135.752696, get_conflict: 0.000021, improve_ub: 0.000319, push: 0.000000, check_seen: 0.000102, Tot: 217.178568
+Means - path_cost: 83.83, solved: 100.00%, #itrs: 9.16, #models: 91.58, %reach: 50.39, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 247.95
+
+State: 95, path_cost: 81.00, solved: True, #itrs: 13, #models: 130, %reach: 47.69, %not_goal: 0.00, secs/model: 1.28, secs/path: 1.83, Time: 405.64
+Times - init: 0.446582, pop: 0.000025, refine: 166.011779, check_goal: 1.011415, path_find: 238.134282, get_conflict: 0.000027, improve_ub: 0.000852, push: 0.000000, check_seen: 0.000148, Tot: 405.605111
+Means - path_cost: 83.80, solved: 100.00%, #itrs: 9.20, #models: 91.98, %reach: 50.37, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.78, Time: 249.59
+
+State: 96, path_cost: 76.00, solved: True, #itrs: 6, #models: 60, %reach: 58.33, %not_goal: 0.00, secs/model: 0.67, secs/path: 1.57, Time: 134.95
+Times - init: 0.444500, pop: 0.000013, refine: 39.962069, check_goal: 0.557981, path_find: 93.947156, get_conflict: 0.000013, improve_ub: 0.000165, push: 0.000000, check_seen: 0.000069, Tot: 134.911965
+Means - path_cost: 83.72, solved: 100.00%, #itrs: 9.16, #models: 91.65, %reach: 50.45, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 248.41
+
+State: 97, path_cost: 91.00, solved: True, #itrs: 8, #models: 80, %reach: 43.75, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.94, Time: 225.90
+Times - init: 0.445963, pop: 0.000017, refine: 69.489261, check_goal: 0.568716, path_find: 155.372437, get_conflict: 0.000010, improve_ub: 0.000286, push: 0.000000, check_seen: 0.000091, Tot: 225.876782
+Means - path_cost: 83.80, solved: 100.00%, #itrs: 9.15, #models: 91.53, %reach: 50.38, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 248.18
+
+State: 98, path_cost: 89.00, solved: True, #itrs: 7, #models: 70, %reach: 54.29, %not_goal: 0.00, secs/model: 0.82, secs/path: 1.65, Time: 173.78
+Times - init: 0.442889, pop: 0.000015, refine: 57.531352, check_goal: 0.603427, path_find: 115.176416, get_conflict: 0.000008, improve_ub: 0.000340, push: 0.000000, check_seen: 0.000081, Tot: 173.754527
+Means - path_cost: 83.85, solved: 100.00%, #itrs: 9.13, #models: 91.31, %reach: 50.42, %not_goal: 0.00, secs/model: 0.87, secs/path: 1.77, Time: 247.43
+
+State: 99, path_cost: 70.00, solved: True, #itrs: 15, #models: 150, %reach: 49.33, %not_goal: 0.00, secs/model: 1.68, secs/path: 1.79, Time: 522.45
+Times - init: 0.445308, pop: 0.000029, refine: 252.320663, check_goal: 1.213747, path_find: 268.436204, get_conflict: 0.000020, improve_ub: 0.001191, push: 0.000000, check_seen: 0.000175, Tot: 522.417337
+Means - path_cost: 83.71, solved: 100.00%, #itrs: 9.19, #models: 91.90, %reach: 50.41, %not_goal: 0.00, secs/model: 0.88, secs/path: 1.77, Time: 250.18
+
