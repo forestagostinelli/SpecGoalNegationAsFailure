@@ -1,5 +1,11 @@
 # A Conflict-Driven Approach for Reaching Goals Specified with Negation as Failure
 
+## Installation
+
+`pip install deepxube==0.1.6`\
+`conda install pytorch==2.3.1 -c pytorch`  (Needs to be compatible with numpy==2.0.0. pytorch==2.5.1 could also work)\
+`pip install numpy==2.0.0`
+
 ## Trained heuristic functions
 You can download the trained heuristic functions [here](https://drive.proton.me/urls/ZGQ3XKD2DC#w6s4sIuxF70c).\
 Use the `current.pt` file.
