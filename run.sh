@@ -3,8 +3,9 @@ goalnum=$2
 goaltype=$3
 specop=$4
 redo=$5
+results_dir=$6
+heur=$7
 
-results_dir=results
 time_limit=500
 ub_pat=5
 expand_size=10
@@ -46,7 +47,7 @@ elif [[ "$env" == "puzzle24" ]]; then
 fi
 
 
-COMMAND="python run_spec_goal.py --env ${env} --spec \"goal :- ${goal}\" --bk_add $bk_add --states data/${env}/test/spec_asp.pkl --heur ../../github/SpecGoal/models/${env}/current.pt --expand_size $expand_size --time_limit $time_limit --ub_pat $ub_pat"
+COMMAND="python run_spec_goal.py --env ${env} --spec \"goal :- ${goal}\" --bk_add $bk_add --states data/${env}/test/spec_asp.pkl --heur $heur --expand_size $expand_size --time_limit $time_limit --ub_pat $ub_pat"
 
 
 if [[ "$specop" == "rand" ]]; then
