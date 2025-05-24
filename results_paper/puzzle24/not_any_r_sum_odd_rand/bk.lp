@@ -72,7 +72,7 @@ num_col(5).
 % classical negation.
 -at_idx(X, R, C) :- t_or_b(X), t_or_b(X2), at_idx(X2, R, C), not X=X2.
 -at_idx(X, R, C) :- row(R), col(C), row(R2), at_idx(X, R2, _), not R=R2.
--at_idx(X, R, C) :- row(R), col(C), row(C2), at_idx(X, _, C2), not C=C2.
+-at_idx(X, R, C) :- row(R), col(C), col(C2), at_idx(X, _, C2), not C=C2.
 
 % constraints.
 % location cannot have multiple tiles.
