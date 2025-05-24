@@ -11,7 +11,7 @@ You can download the trained heuristic functions [here](https://drive.proton.me/
 Use the `current.pt` file.
 
 ## Running the code
-To obtain results shown in Table 1, use the run.sh script.
+To obtain results shown in Table 1, use the run.sh script. The `results_paper` folder shows the outputs obtained for Table 1. 
 
 `sh run.sh <domain> <goal number> <goal type> <specialization operator> <redo> <dir> <heur>`
 
