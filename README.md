@@ -1,5 +1,7 @@
 # A Conflict-Driven Approach for Reaching Goals Specified with Negation as Failure
 
+Code for A Conflict-Driven Approach for Reaching Goals Specified with Negation as Failure ([paper](https://ojs.aaai.org/index.php/SOCS/article/view/35970/38125)).
+
 ## Installation
 
 `pip install deepxube==0.1.6`\
